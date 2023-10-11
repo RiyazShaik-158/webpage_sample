@@ -150,6 +150,7 @@ body{
     border-radius: 40px;
     border: 2px solid #ebeaed;
     padding-left: 24px;
+    color: #000;
 }
 
 .container .right_container .form .checkbox_input{
